@@ -2,7 +2,7 @@
 <h2 align="center">My name is Gonzalo Bolognese and I'm a Full Stack Web Developer based in Buenos Aires, Argentina.</h2>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3OTNjMWNhZTU2YjMyYTc0NjQ2MmZiMDZhOWM5YzlhOTE2NTU5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180">
 <p><em>I'm Graduate as a Full Stack Web Developer from <a href="https://www.soyhenry.com"><img src="https://www.soyhenry.com/_next/image?url=https%3A%2F%2Fassets.soyhenry.com%2Fhenry-landing%2Fassets%2FHenry%2Flogo-white.png&w=256&q=75" width="75"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-<p><em>I'm Graduate as a Front-End Javascript developer expert in React.js from <a href="https://www.soyhenry.com"><img src="https://static.educacionit.com/educacionit/assets/imagotype-it-fill-v2-color.svg" width="110"></a>
+<p><em>I'm Graduate as a Front-End Javascript developer expert in React.js from <a href="https://www.educacionit.com/"><img src="https://static.educacionit.com/educacionit/assets/imagotype-it-fill-v2-color.svg" width="110"></a>
 </em></p>
 
 ##  
