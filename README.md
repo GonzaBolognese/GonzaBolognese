@@ -10,25 +10,45 @@
 
 ### <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="50"> A little more about me...  
 
-* 🌱 I'm currently delving into TypeScript and Next.js to enhance my full stack development skills. Additionally, I'm keen on exploring other front-end frameworks and back-end technologies to expand my knowledge and stay abreast of the latest industry trends.
+* 🌱 I'm currently delving into Springboot to enhance my full stack development skills. Additionally, I'm keen on exploring other front-end frameworks and back-end technologies to expand my knowledge and stay abreast of the latest industry trends.
 
-* 😄 As a 23-year-old junior full stack programmer, I'm excited to pursue my first professional experience and apply my newly acquired skills in a real-world setting. I am ready to work diligently, learn quickly, and contribute effectively within a development team.
+* 😄 As a 24-year-old junior full stack programmer, I'm excited to pursue my first professional experience and apply my newly acquired skills in a real-world setting. I am ready to work diligently, learn quickly, and contribute effectively within a development team.
 
   <h2 align="center"> My Frontend Skills </h2>
 <div align="center" >
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"/> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"/>  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFBReact)"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"/>  
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"/> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFBReact)"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)"/>
 </div>
   
   <h2 align="center"> My Backend Skills </h2>
   
 <div align="center" >
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)" /> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)" />  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)" /> 
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" /> 
  </div>
 <h2 align="center"> My Code Statistics </h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaBolognese&layout=compact" />
  </div>
+  
+  <h2 align="center"> Contact With Me </h2>
+  <div align="center">
+ <a href="https://www.linkedin.com/in/gonzalo-bolognese/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://github.com/GonzaBolognese" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </div>
+
+
   
   <h2 align="center"> Contact With Me </h2>
   <div align="center">
