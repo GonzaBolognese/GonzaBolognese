@@ -1,9 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="70">< Welcome to my space /> <img src="https://media.giphy.com/media/l0Iych4GHWMRxci2I/giphy.gif" width="70"></h1>
-<h2 align="center">My name is Gonzalo Bolognese and I'm a Full Stack Web Developer based in Buenos Aires, Argentina.</h2>
+<h2 align="center">My name is Gonzalo Bolognese and I'm a Data Analytics & Science based in Buenos Aires, Argentina.</h2>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3OTNjMWNhZTU2YjMyYTc0NjQ2MmZiMDZhOWM5YzlhOTE2NTU5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180">
-<p><em>I'm a student of the Bachelor's Degree in Data Science at <a href="https://unsam.edu.ar/escuelas/ecyt/661/ciencia/ciencia-de-datos"><img src="https://cedinci.org/wp-content/uploads/2024/03/unsam.png" width="75"></a></em></p>
-<p><em>I'm Graduate as a Full Stack Web Developer from <a href="https://www.soyhenry.com" ><img src="https://www.soyhenry.com/_next/static/media/HenryLogo.bb57fd6f.svg" width="75" ></a>
-<p><em>I'm Graduate as a Front-End Javascript developer expert in React.js from <a href="https://www.educacionit.com/"><img src="https://static.educacionit.com/educacionit/assets/imagotype-it-fill-v2-color.svg" width="110"></a>
+<p><em>I'm a student of the Bachelor's Degree in Data Science at <a href="https://unsam.edu.ar/escuelas/ecyt/661/ciencia/ciencia-de-datos"><img src="https://i.ibb.co/8cP9ygY/logo-UNSAM.png" width="60"></a></em></p>
+<p><em>I'm Google Data Analytics Certificate from <a href="https://grow.google/certificates/data-analytics/" ><img src="https://pngimg.com/uploads/google/google_PNG19644.png" width="60" ></a>
 </em></p>
 
 ##  
@@ -15,7 +14,7 @@
 
 * 😄 I'm a 25-year-old junior developer eager to dive into real-world projects. I'm passionate about tech, a fast learner, and always looking for opportunities to grow and collaborate.
 
-<h2 align="center"> My Data Science Skills </h2>
+<h2 align="center"> My Data Skills </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
